@@ -17,4 +17,4 @@ Power BI Basic Queries, DAX and Visualizations for class assignment.
 3) adding calculated columns and measures, 
 4) designing an interactive report.
 
-topline (https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/c9f005a8-0236-4e26-8130-3d3ca713141c)
+topline ![alt](https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/c9f005a8-0236-4e26-8130-3d3ca713141c)
