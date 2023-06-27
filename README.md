@@ -22,3 +22,6 @@ Power BI Basic Queries, DAX and Visualizations for class assignment.
 
 ## Report View : 
 ### 1) Topline Performance  ![alt](https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/c9f005a8-0236-4e26-8130-3d3ca713141c)
+### 2) Notes ![alt](https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/d633a74d-6480-43af-9ac1-4d5466d707c0)
+## Data View :  ![alt](https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/343c081c-e486-4bd2-96a6-265c675dcd36)
+## Model View :![alt](https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/ef78f8ce-ccc3-4e82-80a2-8adaa9ca83a1)
