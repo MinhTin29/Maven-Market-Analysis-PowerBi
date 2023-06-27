@@ -21,4 +21,4 @@ Power BI Basic Queries, DAX and Visualizations for class assignment.
 # Screenshots of Power BI *Maven Market* Final Report :-
 
 ## Report View : 
-### 1) Topline Performance -![Report View - Topline Performance] ![alt](https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/c9f005a8-0236-4e26-8130-3d3ca713141c)
+### 1) Topline Performance  ![alt](https://github.com/MinhTin29/Maven-Market-Analysis-PowerBi/assets/104016398/c9f005a8-0236-4e26-8130-3d3ca713141c)
